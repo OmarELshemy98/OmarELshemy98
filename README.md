@@ -18,12 +18,15 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
     * [Bootstrap](https://getbootstrap.com/) (for building responsive, mobile-first projects quickly)
     * [React Bootstrap](https://react-bootstrap.netlify.app/) (integrating Bootstrap components seamlessly with React)
     * **[React.js](https://react.dev/)** (my primary framework for building dynamic user interfaces)
-    * **[Next.js](https://nextjs.org/)** (for building high-performance, SEO-friendly React applications)
+    * **[Next.js](https://nextjs.org/)** (for building high-performance, SEO-friendly React applications, leveraging **App Router**)
     * **[Vue.js](https://vuejs.org/)** (exploring its intuitive approach to reactive UIs)
+    * **[React Query](https://tanstack.com/query/latest)** (for efficient data fetching and state management in React applications)
+
 * **Version Control:**
-    * Git & GitHub (my go-to for collaborative development and code management)
+* Git & GitHub (my go-to for collaborative development and code management)
+
 * **Other Tools & Concepts:**
-   * **RESTful APIs** (consuming and integrating data from backend services)
+    * **RESTful APIs** (consuming and integrating data from backend services)
     * **NPM / Yarn** (package management for efficient project workflows)
     * **Browser Developer Tools** (e.g., Chrome DevTools, Firefox Developer Tools for in-depth debugging and inspection)
     * **ESLint & Prettier** (ensuring clean, consistent, and error-free code quality)
@@ -32,12 +35,14 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
     * **Basic UI/UX Principles** (understanding user-centered design, wireframing, and user flow)
     * **Frontend Deployment** (experience with platforms like Netlify, Vercel, and GitHub Pages for live project showcases)
     * **Responsive Web Design** (crafting adaptive layouts using Media Queries, Flexbox, and CSS Grid)
-    * **Figma** (for design collaboration and prototyping)
+    * **Figma** (for collaborative design and prototyping)
     * **API Testing Tools** (e.g., Postman, Insomnia for testing RESTful endpoints)
-    * **Task Runners / Build Tools** (e.g., Gulp, Webpack fundamentals for automating development tasks - *list specific ones if you use them beyond what frameworks handle*)
+    * **Build Tools & Task Runners** (e.g., Webpack, Vite, Gulp fundamentals for automating development tasks)
     * **Web Storage** (LocalStorage & SessionStorage for client-side data persistence)
+    * **Icon Libraries** (e.g., Font Awesome for scalable vector icons)
+    * **Google Fonts** (for enhancing web typography)
     * **Basic Understanding of CI/CD** (Continuous Integration/Continuous Deployment concepts)
-
+    * **Unit & Integration Testing** (basic concepts for ensuring code reliability)
 
 ---
 
@@ -50,9 +55,9 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
 | **DH Consult Company Website** | A corporate website for DH Consult, specializing in advanced education, technical training, engineering, and scientific research. Presents the company’s mission, expertise, and partnerships with a clean, responsive design. | [Visit Site](https://darkgoldenrod-gnu-568360.hostingersite.com/) |
 | **TI Educational Company Website** | A corporate website for TI Educational, specializing in virtual reality-based education and training solutions. Highlights global presence and innovation with a modern, responsive design. | [Visit Site](https://forestgreen-koala-992569.hostingersite.com/) |
 | **Medyour – Digital Healthcare Platform** | A comprehensive website for Medyour, a leading digital healthcare provider. Showcases smart healthcare solutions and an integrated ecosystem with a focus on accessibility, innovation, and seamless healthcare management. | [Visit Site](https://medyour.com/) |
-| **LabsForHome – Virtual Science Lab Platform** | A professional website for LabsForHome, a hybrid learning system providing virtual science labs for biology, chemistry, and physics, enabling interactive and accessible remote learning. | [Visit Site](https://lightcyan-salamander-875465.hostingersite.com/) |
-| **Todo List App** | A modern, responsive, and feature-rich web application for daily task management, built with **HTML, Tailwind CSS, and Vanilla JavaScript**. | [View Project](https://github.com/OmarELshemy98/todo-list-app) *(Consider adding a Live Demo link here if available, or update the description to reflect the project's purpose if it's a code-only repo)* |
-| **My Personal CV** | My professional resume showcased as a clean, responsive web page. | [View Project](https://github.com/OmarELshemy98/my-cv) |
+| **LabsForHome – Virtual Science Lab Platform** | A professional website for LabsForHome, a platform offering virtual science lab simulations for biology, chemistry, and physics, enabling interactive and accessible remote learning. | [Visit Site](https://lightcyan-salamander-875465.hostingersite.com/) |
+| **Todo List App** | A modern, responsive, and feature-rich web application for daily task management, built with **HTML, Tailwind CSS, and Vanilla JavaScript**. | [Live Demo](https://omarelshemy98.github.io/todo-list-app/) |
+| **My Personal CV** | My professional resume showcased as a clean, responsive web page. | [View Project](https://github.com/OmarELshemy98/my-cv)  |
 
 ---
 
@@ -65,13 +70,14 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
 ### 🤝 Let's Connect!
 
 * [LinkedIn](https://www.linkedin.com/in/omar-elshemy1081998)
-* [Facebook](https://github.com/OmarELshemy98)
-* [WhatsApp] [+201026238072](https://wa.me/201026238072)
-* [Email] [omarelshemy010@gmail.com](mailto:omarelshemy010@gmail.com)
+* [Facebook](https://www.facebook.com/omar.elshemy.98)
+* **WhatsApp:** [+201026238072](https://wa.me/201026238072)
+* **Email:** [omarelshemy010@gmail.com](mailto:omarelshemy010@gmail.com)
+
 ---
 
 ### 🙏 My Learning Journey:
 
-My commitment to growth in frontend development is unwavering. I'm currently focused on mastering [Specific New Technology/Concept, e.g., advanced React patterns, Next.js performance optimization, or building accessible component libraries] to build more robust and impactful web applications. I thrive on continuously expanding my expertise in this rapidly evolving field.
----
+My commitment to growth in frontend development is unwavering. I'm currently focused on mastering **[Specific New Technology/Concept, e.g., advanced React patterns, Next.js performance optimization, or building accessible component libraries]** to build more robust and impactful web applications. I thrive on continuously expanding my expertise in this rapidly evolving field.
 
+---
