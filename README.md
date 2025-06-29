@@ -5,47 +5,6 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
 
 ---
 
-### 💻 My Core Toolkit:
-
-* **Languages:**
-    * HTML5
-    * CSS3 (with a strong focus on responsive design and modern layouts)
-    * JavaScript (ES6+)
-    * **TypeScript** (for robust and scalable applications)
-* **Frameworks & Libraries:**
-    * [Tailwind CSS](https://tailwindcss.com/) (for rapid, utility-first UI development)
-    * [MUI (Material UI)](https://mui.com/) (for beautiful, accessible React components)
-    * [Bootstrap](https://getbootstrap.com/) (for building responsive, mobile-first projects quickly)
-    * [React Bootstrap](https://react-bootstrap.netlify.app/) (integrating Bootstrap components seamlessly with React)
-    * **[React.js](https://react.dev/)** (my primary framework for building dynamic user interfaces)
-    * **[Next.js](https://nextjs.org/)** (for building high-performance, SEO-friendly React applications, leveraging **App Router**)
-    * **[Vue.js](https://vuejs.org/)** (exploring its intuitive approach to reactive UIs)
-    * **[React Query](https://tanstack.com/query/latest)** (for efficient data fetching and state management in React applications)
-
-* **Version Control:**
-    * Git & GitHub (my go-to for collaborative development and code management)
-
-* **Other Tools & Concepts:**
-    * **RESTful APIs** (consuming and integrating data from backend services)
-    * **NPM / Yarn** (package management for efficient project workflows)
-    * **Browser Developer Tools** (e.g., Chrome DevTools, Firefox Developer Tools for in-depth debugging and inspection)
-    * **ESLint & Prettier** (ensuring clean, consistent, and error-free code quality)
-    * **Basic Web Performance Optimization** (e.g., image optimization, lazy loading, asset compression)
-    * **Web Accessibility (a11y) principles** (designing inclusive interfaces for all users)
-    * **Basic UI/UX Principles** (understanding user-centered design, wireframing, and user flow)
-    * **Frontend Deployment** (experience with platforms like Netlify, Vercel, and GitHub Pages for live project showcases)
-    * **Responsive Web Design** (crafting adaptive layouts using Media Queries, Flexbox, and CSS Grid)
-    * **Figma** (for collaborative design and prototyping)
-    * **API Testing Tools** (e.g., Postman, Insomnia for testing RESTful endpoints)
-    * **Build Tools & Task Runners** (e.g., Webpack, Vite, Gulp fundamentals for automating development tasks)
-    * **Web Storage** (LocalStorage & SessionStorage for client-side data persistence)
-    * **Icon Libraries** (e.g., Font Awesome for scalable vector icons)
-    * **Google Fonts** (for enhancing web typography)
-    * **Basic Understanding of CI/CD** (Continuous Integration/Continuous Deployment concepts)
-    * **Unit & Integration Testing** (basic concepts for ensuring code reliability)
-
----
-
 ### 💪 My Skills:
 
 ### 🛠️ Core Technologies
