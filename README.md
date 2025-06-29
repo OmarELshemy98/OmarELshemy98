@@ -1,56 +1,99 @@
-# Hi there 👋 I'm Omar Elshemy\!
-
+# Hi there 👋 I'm Omar Elshemy!
 ### A Passionate Junior Frontend Developer from New Cairo, Egypt 🇪🇬
 
 As a frontend developer, I'm driven by the relentless pursuit of building **high-performance, responsive, and exceptionally intuitive web applications**. My commitment lies in transforming creative visions into polished, user-centric digital solutions, constantly evolving with the cutting edge of web technology.
 
------
+---
 
 ### 💻 My Core Toolkit:
 
-  * **Languages:**
+* **Languages:**
+    * HTML5
+    * CSS3 (with a strong focus on responsive design and modern layouts)
+    * JavaScript (ES6+)
+    * **TypeScript** (for robust and scalable applications)
+* **Frameworks & Libraries:**
+    * [Tailwind CSS](https://tailwindcss.com/) (for rapid, utility-first UI development)
+    * [MUI (Material UI)](https://mui.com/) (for beautiful, accessible React components)
+    * [Bootstrap](https://getbootstrap.com/) (for building responsive, mobile-first projects quickly)
+    * [React Bootstrap](https://react-bootstrap.netlify.app/) (integrating Bootstrap components seamlessly with React)
+    * **[React.js](https://react.dev/)** (my primary framework for building dynamic user interfaces)
+    * **[Next.js](https://nextjs.org/)** (for building high-performance, SEO-friendly React applications, leveraging **App Router**)
+    * **[Vue.js](https://vuejs.org/)** (exploring its intuitive approach to reactive UIs)
+    * **[React Query](https://tanstack.com/query/latest)** (for efficient data fetching and state management in React applications)
 
-      * HTML5
-      * CSS3 (with a strong focus on responsive design and modern layouts)
-      * JavaScript (ES6+)
-      * **TypeScript** (for robust and scalable applications)
+* **Version Control:**
+    * Git & GitHub (my go-to for collaborative development and code management)
 
-  * **Frameworks & Libraries:**
+* **Other Tools & Concepts:**
+    * **RESTful APIs** (consuming and integrating data from backend services)
+    * **NPM / Yarn** (package management for efficient project workflows)
+    * **Browser Developer Tools** (e.g., Chrome DevTools, Firefox Developer Tools for in-depth debugging and inspection)
+    * **ESLint & Prettier** (ensuring clean, consistent, and error-free code quality)
+    * **Basic Web Performance Optimization** (e.g., image optimization, lazy loading, asset compression)
+    * **Web Accessibility (a11y) principles** (designing inclusive interfaces for all users)
+    * **Basic UI/UX Principles** (understanding user-centered design, wireframing, and user flow)
+    * **Frontend Deployment** (experience with platforms like Netlify, Vercel, and GitHub Pages for live project showcases)
+    * **Responsive Web Design** (crafting adaptive layouts using Media Queries, Flexbox, and CSS Grid)
+    * **Figma** (for collaborative design and prototyping)
+    * **API Testing Tools** (e.g., Postman, Insomnia for testing RESTful endpoints)
+    * **Build Tools & Task Runners** (e.g., Webpack, Vite, Gulp fundamentals for automating development tasks)
+    * **Web Storage** (LocalStorage & SessionStorage for client-side data persistence)
+    * **Icon Libraries** (e.g., Font Awesome for scalable vector icons)
+    * **Google Fonts** (for enhancing web typography)
+    * **Basic Understanding of CI/CD** (Continuous Integration/Continuous Deployment concepts)
+    * **Unit & Integration Testing** (basic concepts for ensuring code reliability)
 
-      * [Tailwind CSS](https://tailwindcss.com/) (for rapid, utility-first UI development)
-      * [MUI (Material UI)](https://mui.com/) (for beautiful, accessible React components)
-      * [Bootstrap](https://getbootstrap.com/) (for building responsive, mobile-first projects quickly)
-      * [React Bootstrap](https://react-bootstrap.netlify.app/) (integrating Bootstrap components seamlessly with React)
-      * **[React.js](https://react.dev/)** (my primary framework for building dynamic user interfaces)
-      * **[Next.js](https://nextjs.org/)** (for building high-performance, SEO-friendly React applications, leveraging **App Router**)
-      * **[Vue.js](https://vuejs.org/)** (exploring its intuitive approach to reactive UIs)
-      * **[React Query](https://tanstack.com/query/latest)** (for efficient data fetching and state management in React applications)
+---
 
-  * **Version Control:**
+### 💪 My Skills:
 
-      * Git & GitHub (my go-to for collaborative development and code management)
+### 🛠️ Core Technologies
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **TypeScript**
 
-  * **Other Tools & Concepts:**
+### ⚛️ Frameworks & Libraries
+* **React.js**
+* **Next.js**
+* **Vue.js**
+* **Redux**
+* **React Query**
+* **Context API**
 
-      * **RESTful APIs** (consuming and integrating data from backend services)
-      * **NPM / Yarn** (package management for efficient project workflows)
-      * **Browser Developer Tools** (e.g., Chrome DevTools, Firefox Developer Tools for in-depth debugging and inspection)
-      * **ESLint & Prettier** (ensuring clean, consistent, and error-free code quality)
-      * **Basic Web Performance Optimization** (e.g., image optimization, lazy loading, asset compression)
-      * **Web Accessibility (a11y) principles** (designing inclusive interfaces for all users)
-      * **Basic UI/UX Principles** (understanding user-centered design, wireframing, and user flow)
-      * **Frontend Deployment** (experience with platforms like Netlify, Vercel, and GitHub Pages for live project showcases)
-      * **Responsive Web Design** (crafting adaptive layouts using Media Queries, Flexbox, and CSS Grid)
-      * **Figma** (for collaborative design and prototyping)
-      * **API Testing Tools** (e.g., Postman, Insomnia for testing RESTful endpoints)
-      * **Build Tools & Task Runners** (e.g., Webpack, Vite, Gulp fundamentals for automating development tasks)
-      * **Web Storage** (LocalStorage & SessionStorage for client-side data persistence)
-      * **Icon Libraries** (e.g., Font Awesome for scalable vector icons)
-      * **Google Fonts** (for enhancing web typography)
-      * **Basic Understanding of CI/CD** (Continuous Integration/Continuous Deployment concepts)
-      * **Unit & Integration Testing** (basic concepts for ensuring code reliability)
+### 🎨 UI Frameworks & Styling
+* **Bootstrap**
+* **Tailwind CSS**
+* **Material UI**
+* **SASS/SCSS**
+* **Styled Components**
+* **Framer Motion**
 
------
+### 🔧 Tools & Technologies
+* **Git**
+* **GitHub**
+* **Responsive Design**
+* **UI/UX Design**
+* **Performance Optimization**
+* **SEO Optimization**
+* **Web Accessibility**
+* **Testing & QA**
+* **Figma**
+* **npm/yarn**
+* **Vite**
+
+### ⚡ Modern JavaScript & APIs
+* **ES6+ Features**
+* **Async/Await**
+* **ES6 Modules**
+* **Web APIs**
+
+### 🔗 Backend Integration
+* **Server-Side Rendering (SSR)**
+* **Static Site Generation (SSG)**
+
+---
 
 ### 🚀 Featured Projects:
 
@@ -66,22 +109,52 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
 | **Student Dashboard - Math Learning Platform** | A comprehensive student dashboard for a math learning platform, designed for intuitive navigation and access to courses and resources. | [Live Demo](https://omarelshemy98.github.io/mathmatic-dashboard-courses) |
 | **My Personal CV** | My professional resume showcased as a clean, responsive web page. | [View Project](https://github.com/OmarELshemy98/my-cv) |
 
------
+---
+
+### 🎓 Certificates:
+
+### Mahara-Tech (ITI Platform)
+* Modern JavaScript (ES6 and Beyond)
+* Learn HTML & CSS
+* JavaScript Programming
+* TypeScript Fundamentals
+
+### SoloLearn
+* Coding for Data
+* Front-end for Beginners (Developed with Angular Team at Google)
+* Web Development
+
+### Udemy
+* HTML5, CSS3, and JavaScript The Right Way 2025
+* JavaScript Fundamentals Course for Beginners
+* Design a Website Template using HTML5 & CSS3
+* Introduction to CSS Grid
+* JavaScript From Scratch
+* JavaScript Fundamentals to Advanced: Full Stack Development
+* Practical Next.js & React - Build a real WebApp with Next.js
+* Web Design Course For Beginner to Advanced
+* HTML and CSS for Web Designers: From Basics to Beautiful
+
+### Professional & Other Certificates
+* Chubb Life-Egypt Basic Sales Induction Training
+* Banque Misr Summer Training Program 2022
+
+---
 
 ### 📈 My GitHub Stats:
 
-[](https://www.google.com/search?q=%5Bhttps://github.com/anuraghazra/github-readme-stats%5D\(https://github.com/anuraghazra/github-readme-stats\))
+[![OmarELshemy98's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarELshemy98&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
------
+---
 
-### 🤝 Let's Connect\!
+### 🤝 Let's Connect!
 
-  * [LinkedIn](https://www.linkedin.com/in/omar-elshemy1081998)
-  * [Facebook](https://www.facebook.com/omar.elshemy.98)
-  * **WhatsApp:** [+201026238072](https://wa.me/201026238072)
-  * **Email:** [omarelshemy010@gmail.com](mailto:omarelshemy010@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/omar-elshemy)
+* [Facebook](https://www.facebook.com/omar.elshemy.98)
+* **WhatsApp:** [+201026238072](https://wa.me/201026238072)
+* **Email:** [omarelshemy010@gmail.com](mailto:omarelshemy010@gmail.com)
 
------
+---
 
 ### 🙏 My Learning Journey:
 
