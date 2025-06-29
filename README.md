@@ -64,9 +64,9 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
 | **TI Educational Company Website** | A corporate website for TI Educational, specializing in virtual reality-based education and training solutions. Highlights global presence and innovation with a modern, responsive design. | [Visit Site](https://forestgreen-koala-992569.hostingersite.com/) |
 | **Medyour – Digital Healthcare Platform** | A comprehensive website for Medyour, a leading digital healthcare provider. Showcases smart healthcare solutions and an integrated ecosystem with a focus on accessibility, innovation, and seamless healthcare management. | [Visit Site](https://medyour.com/) |
 | **LabsForHome – Virtual Science Lab Platform** | A professional website for LabsForHome, a platform offering virtual science lab simulations for biology, chemistry, and physics, enabling interactive and accessible remote learning. | [Visit Site](https://lightcyan-salamander-875465.hostingersite.com/) |
-| **Todo List App** | A modern, responsive, and feature-rich web application for daily task management, built with **HTML, Tailwind CSS, and Vanilla JavaScript**. | [Live Demo](https://omarelshemy98.github.io/todo-list-app/) |
-| **Student Dashboard - Math Learning Platform** | A comprehensive student dashboard for a math learning platform, designed for intuitive navigation and access to courses and resources. | [Live Demo](https://omarelshemy98.github.io/mathmatic-dashboard-courses) |
-| **My Personal CV** | My professional resume showcased as a clean, responsive web page. | [View Project](https://github.com/OmarELshemy98/my-cv) |
+| **Todo List App** | A modern, responsive, and feature-rich web application for daily task management, built with **HTML, Tailwind CSS, and Vanilla JavaScript**. | [Visit Site](https://omarelshemy98.github.io/todo-list-app/) |
+| **Student Dashboard - Math Learning Platform** | A comprehensive student dashboard for a math learning platform, designed for intuitive navigation and access to courses and resources. | [Visit Site](https://omarelshemy98.github.io/mathmatic-dashboard-courses) |
+| **My Portofolio** | My professional resume showcased as a clean, responsive web page. | [View Site]([https://github.com/OmarELshemy98/my-cv](https://omarelshemy.netlify.app/)) |
 
 ---
 
@@ -110,6 +110,7 @@ As a frontend developer, I'm driven by the relentless pursuit of building **high
 
 * [LinkedIn](https://www.linkedin.com/in/omar-elshemy)
 * [Facebook](https://www.facebook.com/omar.elshemy.98)
+* * [my website](https://omarelshemy.netlify.app/)
 * **WhatsApp:** [+201026238072](https://wa.me/201026238072)
 * **Email:** [omarelshemy010@gmail.com](mailto:omarelshemy010@gmail.com)
 
